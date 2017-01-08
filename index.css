@@ -1,0 +1,18 @@
+*{
+	padding: 0px;
+	margin-left: 0px;
+}
+#mainDiv{
+
+}
+#navBar{
+	margin-left: 10px;
+}
+#menu{
+	display: inline-block;
+	list-style: none;
+}
+#menu a{
+	text-decoration: none;
+	display: block;
+}
