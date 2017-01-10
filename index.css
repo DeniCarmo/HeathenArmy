@@ -11,6 +11,7 @@
 	width: 100%;
 	position: fixed;
 	background-color: #000;
+	border-bottom: 1px solid #069;
 }
 h2{
 	color: #fff;
@@ -73,3 +74,9 @@ h2{
 	background-color: #ccc;
 }
 /*Head End*/
+#banner{
+	width: 100%;
+	height: 320px;
+	background-color: #000;
+	padding-top: 20px;
+}
